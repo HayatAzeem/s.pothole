@@ -343,10 +343,3 @@ Please follow the instructions in the [**`do this setup.md`**](https://github.co
 
 ---
 
-## Authors
-
-- [Nikita Kumari](https://github.com/iamnikitaa)
-- [Navneet Sharma](https://github.com/nav9v)
-- [Ojus Kumar](https://github.com/ojuss)
-
-Thanks for checking out our project
