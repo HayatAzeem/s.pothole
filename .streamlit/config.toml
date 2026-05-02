@@ -1,8 +1,7 @@
 [theme]
-base="light"
+base="dark"
 primaryColor="#ff004e"
-# You can add other theme options here like:
-# backgroundColor="#..."
-# secondaryBackgroundColor="#..."
-# textColor="#..."
-# font="..."
+backgroundColor="#0e1117"
+secondaryBackgroundColor="#262730"
+textColor="#fafafa"
+font="sans serif"
